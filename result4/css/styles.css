@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+h1 {
+    font-size: 48px;
+
+    color: #8f2e14;
+}
+
+h2 {
+    font-size: 48px;
+
+    color: #f38bfa;
+}
+
+p {
+    font-size: 24px;
+
+    background-color: #fffac2;
+    
+}
